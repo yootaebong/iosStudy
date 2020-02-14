@@ -15,6 +15,7 @@
 		B489DE0023F53F3300E6DD76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B489DDFF23F53F3300E6DD76 /* Assets.xcassets */; };
 		B489DE0323F53F3300E6DD76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B489DE0123F53F3300E6DD76 /* LaunchScreen.storyboard */; };
 		B489DE0B23F548B600E6DD76 /* type1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B489DE0A23F548B600E6DD76 /* type1.swift */; };
+		B489DE0D23F6877600E6DD76 /* newsDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B489DE0C23F6877600E6DD76 /* newsDetailController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B489DE0223F53F3300E6DD76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B489DE0423F53F3300E6DD76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B489DE0A23F548B600E6DD76 /* type1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = type1.swift; sourceTree = "<group>"; };
+		B489DE0C23F6877600E6DD76 /* newsDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newsDetailController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				B489DE0423F53F3300E6DD76 /* Info.plist */,
 				B489DDFC23F53F3200E6DD76 /* bongTable.xcdatamodeld */,
 				B489DE0A23F548B600E6DD76 /* type1.swift */,
+				B489DE0C23F6877600E6DD76 /* newsDetailController.swift */,
 			);
 			path = bongTable;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B489DDFE23F53F3200E6DD76 /* bongTable.xcdatamodeld in Sources */,
+				B489DE0D23F6877600E6DD76 /* newsDetailController.swift in Sources */,
 				B489DDF823F53F3200E6DD76 /* ViewController.swift in Sources */,
 				B489DDF423F53F3200E6DD76 /* AppDelegate.swift in Sources */,
 				B489DE0B23F548B600E6DD76 /* type1.swift in Sources */,
